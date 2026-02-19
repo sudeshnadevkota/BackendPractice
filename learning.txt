@@ -3,3 +3,5 @@ M = monogoDb (No SQL Database -- data always store in key value pair)
 E = Express (server)
 R = React (Frontend--- always client side)
 N = NodeJS (Backend Framework -- JS language)
+
+ // product module 
